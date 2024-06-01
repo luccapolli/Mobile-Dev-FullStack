@@ -1,0 +1,30 @@
+[
+  {
+    "DriverID": "1",
+    "Nome": "João",
+    "CNH": "111111",
+    "Endereço": "Rua das couves 12",
+    "Contato": "9999-99991"
+  },
+  {
+    "DriverID": "2",
+    "Nome": "Maria",
+    "CNH": "222222",
+    "Endereço": "Rua das couves 11",
+    "Contato": "31999999999"
+  },
+  {
+    "DriverID": "3",
+    "Nome": "Laura",
+    "CNH": "333333",
+    "Endereço": "Rua das couves 10",
+    "Contato": "41999999999"
+  },
+  {
+    "DriverID": "4",
+    "Nome": "Margareth",
+    "CNH": "444444",
+    "Endereço": "Rua das couves 9",
+    "Contato": "71999999999"
+  }
+]
